@@ -1,4 +1,5 @@
 # NeRF Capture
+## An old version cloned from jc211/NeRFCapture
 
 <img src="docs/assets_readme/NeRFCaptureReal.png" height="342"/><img src="docs/assets_readme/NeRFCaptureSample.gif" height="342"/>
 
